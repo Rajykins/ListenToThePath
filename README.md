@@ -1,6 +1,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=Unity)
 
 # Listen to the Path 
+<img src="https://imgur.com/UICMWQo">
 > Listen to the Path is a maze game that is designed for inclusivity to allow everyone, no matter their visual capabilities, to have an immersive experience. <br/> 
 
 Made-by: Rajessen Sanassy ([rajykins](https://github.com/Rajykins)), Jasmine Kang ([jmoonus](https://github.com/jmoonus)), Josh Kim ([LemonTii](https://github.com/LemonTii)), Zijian Meng ([RichardZJM](https://github.com/RichardZJM))
