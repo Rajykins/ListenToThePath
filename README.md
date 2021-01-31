@@ -1,7 +1,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-000?style=flat&logo=Unity)
 
 # Listen to the Path 
-<img src="https://imgur.com/UICMWQo">
+<img src="https://i.imgur.com/UICMWQo.png">
 <img src="https://i.imgur.com/6nfuUYS.png">
 > Listen to the Path is a maze game that is designed for inclusivity to allow everyone, no matter their visual capabilities, to have an immersive experience. <br/> 
 
