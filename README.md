@@ -32,7 +32,7 @@
 
 You will first need to clone the repository to your local machine:
 ```
-git clone https://github.com/Rajykins/Listen-to-the-Path.git
+git clone https://github.com/Rajykins/ListenToThePath.git
 ```
 
 * Install Unity Hub from Unity's [website](https://unity.com/):
