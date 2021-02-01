@@ -3,11 +3,11 @@
 # Listen to the Path 
 > Listen to the Path is a maze game that is designed for inclusivity to allow everyone, no matter their visual capabilities, to have an immersive experience. <br/> 
 
-##Made-by: 
-Rajessen Sanassy ([GitHub](https://github.com/Rajykins), [LinkedIn]) 
-Jasmine Kang ([GitHub](https://github.com/jmoonus), [LinkedIn](https://www.linkedin.com/in/jasmine-seeun-kang/)) 
-Josh Kim ([GitHub](https://github.com/LemonTii), [LinkedIn](https://www.linkedin.com/in/joshkimsjk/))
-Zijian Meng ([GitHub](https://github.com/RichardZJM), [LinkedIn])
+## Made-by: 
+* Rajessen Sanassy ([GitHub](https://github.com/Rajykins), [LinkedIn]) 
+* Jasmine Kang ([GitHub](https://github.com/jmoonus), [LinkedIn](https://www.linkedin.com/in/jasmine-seeun-kang/)) 
+* Josh Kim ([GitHub](https://github.com/LemonTii), [LinkedIn](https://www.linkedin.com/in/joshkimsjk/))
+* Zijian Meng ([GitHub](https://github.com/RichardZJM), [LinkedIn])
 
 ## Minimum Requirements:
  - Windows 7 or higher.
